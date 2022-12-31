@@ -115,39 +115,39 @@ global.version = vs
 global.gt = '𝘌𝘓Ｇ𝘈𝘡𝘈𝘙𝘉𝘖𝘛-𝘔𝘋'
 global.gatabot = gt
 
-global.yt = 'https://youtube.com/@gatadios'
+global.yt = 'https://youtube.com/@ABDALLAH_MOHAMED'
 global.youtube = yt
 
-global.ig = 'https://www.instagram.com/gata_dios'
+global.ig = 'https://www.tiktok.com/@q.r.a.n_0?_t=8YdfRrgXVUE&_r=1'
 global.gatadiosig = ig
 
-global.md = 'https://github.com/GataNina-Li/GataBot-MD'
+global.md = 'https://youtube.com/@ABDALLAH_MOHAMED'
 global.gatabot = md
 
-global.nna = 'https://chat.whatsapp.com/Fs0id9YB4rXHBCv4c2RVIw'
+global.nna = 'https://chat.whatsapp.com/LQtGVmEfpZN5RcmFCSqtdC'
 global.nnagrupo = nna //UPDATE ELGAZARBOT
 global.nna2 = 'Fs0id9YB4rXHBCv4c2RVIw'
 
-global.nn = 'https://chat.whatsapp.com/Jt76tVg51bfJNLwHwtlmGU'
+global.nn = 'https://chat.whatsapp.com/LQtGVmEfpZN5RcmFCSqtdC'
 global.nngrupo = nn //Grupo 1
 
-global.nnn = 'https://chat.whatsapp.com/Dx7SpgNO13fGvgCSuLjwpP'
+global.nnn = 'https://chat.whatsapp.com/LQtGVmEfpZN5RcmFCSqtdC'
 global.nnngrupo = nnn //Grupo 2
 
-global.nnnt = 'https://chat.whatsapp.com/LHkRugxY5jL3mhVSZJMjIw'
+global.nnnt = 'https://chat.whatsapp.com/LQtGVmEfpZN5RcmFCSqtdC'
 global.nnntgrupo = nnnt //Grupo 3
 
-global.nnntt = 'https://chat.whatsapp.com/JK3ut4nDbzA5BBvMeKUb7t'
+global.nnntt = 'https://chat.whatsapp.com/LQtGVmEfpZN5RcmFCSqtdC'
 global.nnnttgrupo = nnntt //Grupo 4
 
-global.nnnttt = 'https://chat.whatsapp.com/GSUnx4mUAuh0VQIem9aQDc'
+global.nnnttt = 'https://chat.whatsapp.com/LQtGVmEfpZN5RcmFCSqtdC'
 global.nnntttgrupo = nnnttt //Grupo 5
 
-global.nnnttt2 = 'https://chat.whatsapp.com/DswecLCg0elE8yNEJAdGAK'
+global.nnnttt2 = 'https://chat.whatsapp.com/LQtGVmEfpZN5RcmFCSqtdC'
 global.nnnttt2grupo = nnnttt2 //Grupo 6
 
-global.paypal = 'https://paypal.me/OficialGD'
-global.donar = paypal
+global.paypal = 'https://youtube.com/@ABDALLAH_MOHAMED'
+global.donar = youtube
 
 global.asistencia = 'Wa.me/201098906252' //Dudas? escríbeme...
 
