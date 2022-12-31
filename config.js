@@ -7,16 +7,16 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 global.owner = [
-  ['593993684821', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈', true],
-  ['573238484181', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 2 💖🐈', true],
-  ['573208089136', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 3 💖🐈', true],
-  ['593959425714', '𝘿𝙄𝙀𝙂𝙊-𝙊𝙁𝘾 | 𝙀𝙍𝙍𝙊𝙍𝙀𝙎 💖🐈', true], 
-  ['5492266466080'], ['573136855110'], ['50689823726'], ['50495086382'], ['51960086535'],
-  ['584125778026'], ['584166662765'], ['584163647116'], ['15512090312'], ['593968585383']]
+  ['201098906252', '𝘌𝘓Ｇ𝘈𝘡𝘈𝘙𝘉𝘖𝘛-𝘔𝘋 ❤ `', true],
+  ['201098906252', '𝘌𝘓Ｇ𝘈𝘡𝘈𝘙𝘉𝘖𝘛-𝘔𝘋 2 ❤ `', true],
+  ['201098906252', '𝘌𝘓Ｇ𝘈𝘡𝘈𝘙𝘉𝘖𝘛-𝘔𝘋 3 ❤ `', true],
+  ['201098906252', '𝘌𝘓Ｇ𝘈𝘡𝘈𝘙-𝘖𝘍𝘊 | 𝘌𝘙𝘙𝘖𝘙𝘌𝘚 ❤ `', true], 
+  ['201098906252'], ['201098906252'], ['201098906252'], ['201098906252'], ['201098906252'],
+  ['201098906252'], ['201098906252'], ['201098906252'], ['201098906252'], ['201098906252']]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [] 
-global.prems = ['528451003894'], 
+global.prems = ['201098906252'], 
    
   
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰ 
@@ -101,8 +101,8 @@ global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 🐈'
-global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
+global.packname = '⍣الجزار الوزير يروحي⍣'
+global.author = '⍣01098906252⍣'
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -112,7 +112,7 @@ global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
 global.vs = '1.4.0 (Navidad) 🎄'
 global.version = vs
 
-global.gt = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
+global.gt = '𝘌𝘓Ｇ𝘈𝘡𝘈𝘙𝘉𝘖𝘛-𝘔𝘋'
 global.gatabot = gt
 
 global.yt = 'https://youtube.com/@gatadios'
@@ -125,7 +125,7 @@ global.md = 'https://github.com/GataNina-Li/GataBot-MD'
 global.gatabot = md
 
 global.nna = 'https://chat.whatsapp.com/Fs0id9YB4rXHBCv4c2RVIw'
-global.nnagrupo = nna //UPDATE GATABOT
+global.nnagrupo = nna //UPDATE ELGAZARBOT
 global.nna2 = 'Fs0id9YB4rXHBCv4c2RVIw'
 
 global.nn = 'https://chat.whatsapp.com/Jt76tVg51bfJNLwHwtlmGU'
@@ -149,7 +149,7 @@ global.nnnttt2grupo = nnnttt2 //Grupo 6
 global.paypal = 'https://paypal.me/OficialGD'
 global.donar = paypal
 
-global.asistencia = 'Wa.me/18059196237' //Dudas? escríbeme...
+global.asistencia = 'Wa.me/201098906252' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -183,13 +183,13 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 : 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
-global.igfg = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
-global.wait = '*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*'
-global.waitt = '*⌛ _Cargando | Charging..._ ▬▬▭▭▭*'
-global.waittt = '*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*'
-global.waitttt = '*⌛ _Cargando | Charging..._ ▬▬▬▬▬▬▭*'
-global.nomorown = '593993684821'
+global.wm = '𝘌𝘓Ｇ𝘈𝘡𝘈𝘙𝘉𝘖𝘛-𝘔𝘋 : 𝘌𝘓Ｇ𝘈𝘡𝘈𝘙 𝘉𝘖𝘛'
+global.igfg = '𝘌𝘓Ｇ𝘈𝘡𝘈𝘙𝘉𝘖𝘛-𝘔𝘋'
+global.wait = '*⌛ _انتظر لحظه..._ ▬▭▭▭▭▭▭*'
+global.waitt = '*⌛ _انتظر لحظه..._ ▬▬▭▭▭*'
+global.waittt = '*⌛ _انتظر لحظه..._ ▬▬▬▬▭▭*'
+global.waitttt = '*⌛ _انتظر لحظه..._ ▬▬▬▬▬▬▭*'
+global.nomorown = '201098906252'
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf']
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
