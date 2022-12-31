@@ -121,7 +121,7 @@ global.youtube = yt
 global.ig = 'https://www.tiktok.com/@q.r.a.n_0?_t=8YdfRrgXVUE&_r=1'
 global.gatadiosig = ig
 
-global.md = 'https://youtube.com/@ABDALLAH_MOHAMED'
+global.md = 'https://chat.whatsapp.com/LQtGVmEfpZN5RcmFCSqtdC'
 global.gatabot = md
 
 global.nna = 'https://chat.whatsapp.com/LQtGVmEfpZN5RcmFCSqtdC'
