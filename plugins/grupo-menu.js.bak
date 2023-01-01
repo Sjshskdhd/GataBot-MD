@@ -80,15 +80,16 @@ let menuB = `╭┄〔 *${wm}* 〕┄⊱
 ╰┄┄┄┄〔 *𓃠 ${vs}* 〕┄┄┄┄⊱
 
 ⠇ ${lenguajeGB['smsTex11']()} 🌐
-∘ _${usedPrefix}بان_
-∘ _${usedPrefix}الغاء_
-∘ _${usedPrefix}حظر_
-∘ _${usedPrefix}فك-الحظر_
+∘ _${usedPrefix}group_
+∘ _${usedPrefix}banchat_
+∘ _${usedPrefix}unbanchat_
+∘ _${usedPrefix}banuser_
+∘ _${usedPrefix}unbanuser_
 ∘ _${usedPrefix}المشرفين_
 ∘ _${usedPrefix}منشن_
 ∘ _${usedPrefix}وهمي_
 ∘ _${usedPrefix}معلومات_
-∘ _${usedPrefix}مؤقت_
+∘ _${usedPrefix}grouptime_
 ∘ _${usedPrefix}لينك_
 ∘ _${usedPrefix}اطرد_
 ∘ _${usedPrefix}طرد_
@@ -101,7 +102,6 @@ let menuB = `╭┄〔 *${wm}* 〕┄⊱
 ∘ _${usedPrefix}تغيرالترحيب_
 ∘ _${usedPrefix}تغيرالمغادره_
 ∘ _${usedPrefix}رستر_
-∘ _${usedPrefix}group_
 ∘ _${usedPrefix}on_
 ∘ _${usedPrefix}off_
 `.trim()

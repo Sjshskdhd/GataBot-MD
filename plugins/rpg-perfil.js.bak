@@ -33,5 +33,5 @@ conn.sendButton(m.chat, str, wm, await(await fetch(pp)).buffer(), [['تحقق', 
 }}
 handler.help = ['profile [@user]']
 handler.tags = ['xp']
-handler.command = /^بروفايل|profile?$/i
+handler.command = /^perfil|profile?$/i
 export default handler

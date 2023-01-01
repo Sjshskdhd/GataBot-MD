@@ -11,16 +11,16 @@ let fsizedoc = '1'.repeat(10)
 let adReply = { fileLength: fsizedoc, seconds: fsizedoc, contextInfo: { forwardingScore: fsizedoc, externalAdReply: { showAdAttribution: true, title: wm, body: '👋 ' + username, mediaUrl: ig, description: 'Hola', previewType: 'PHOTO', thumbnail: await(await fetch(gataMenu.getRandom())).buffer(), sourceUrl: redesMenu.getRandom() }}}
 
 try{
-await conn.sendButton(m.chat, 'https://chat.whatsapp.com/' + await conn.groupInviteCode(group), wm, pp, [[lenguajeGB.smsConMenu(), `${usedPrefix}menu`]], fkontak, adReply)
+await conn.sendButton(m.chat, 'لينك الجروب❤ https://chat.whatsapp.com/' + await conn.groupInviteCode(group), wm, pp, [[lenguajeGB.smsConMenu(), `${usedPrefix}menu`]], fkontak, adReply)
 } catch (e) {
   
 await conn.sendButton(m.chat, `\n${wm}`, lenguajeGB['smsMalError3']() + '#report ' + usedPrefix + command, null, [[lenguajeGB.smsMensError1(), `#reporte ${lenguajeGB['smsMensError2']()} *${usedPrefix + command}*`]], m)
 console.log(`❗❗ ${lenguajeGB['smsMensError2']()} ${usedPrefix + command} ❗❗`)
 console.log(e)	
 }} 
-handler.help = ['linkgroup']
+handler.help = ['لينك']
 handler.tags = ['group']
-handler.command = /^enlace|link(gro?up)?$/i
+handler.command = /^enlace|لي(ن?ك)?$/i
 handler.group = true
 handler.botAdmin = true
 export default handler

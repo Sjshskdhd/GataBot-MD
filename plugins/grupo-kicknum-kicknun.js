@@ -28,10 +28,10 @@ await delay(2000)
 let responseb = await conn.groupParticipantsUpdate(m.chat, [user], 'remove')
 if (responseb[0].status === "404") m.reply(error, m.chat, { mentions: conn.parseMention(error)})  
 await delay(10000)
-} else return m.reply('*[❗] 𝙴𝚁𝚁𝙾𝚁*')}
+} else return m.reply('*[❗] ايرور*')}
 break            
 }}
-handler.command = /^(listanum|kicknum)$/i
+handler.command = /^(اطرد|kicknum)$/i
 handler.group = handler.botAdmin = handler.admin = true
 handler.fail = null
 export default handler

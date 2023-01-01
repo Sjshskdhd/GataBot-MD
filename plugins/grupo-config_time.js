@@ -134,7 +134,7 @@ await conn.sendButton(m.chat, `\n${wm}`, lenguajeGB['smsMalError3']() + '#report
 console.log(`❗❗ ${lenguajeGB['smsMensError2']()} ${usedPrefix + command} ❗❗`)
 console.log(e)	
 }}
-handler.command = /^(grouptime|gctime|grupotiempo)$/i
+handler.command = /^(grouptime|المؤقت|مؤقت)$/i
 handler.botAdmin = true
 handler.group = true 
 handler.admin = true
